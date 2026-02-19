@@ -83,5 +83,3 @@ Basándonos en los predictores de mayor impacto, se recomiendan las siguientes a
 
 ---
 
-**Desarrollado por:** [Tu Nombre o Usuario de GitHub]  
-*Fomentando el crecimiento basado en datos.*
